@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreference
+            android:defaultValue="false"
+            android:title="Broadcast Location" android:key="broadcastPreference"
+            android:icon="@drawable/location_preference" android:summaryOn="Your location is being shared"
+            android:summaryOff="Turn on to share your location"/>
+</PreferenceScreen>

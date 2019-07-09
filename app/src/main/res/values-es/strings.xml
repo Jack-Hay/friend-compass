@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Amigo compás</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="action_logout">Cerrar sesión</string>
+    <string name="tracking_enabled_notif">El seguimiento está habilitado actualmente</string>
+    <string name="gps_not_enabled">GPS no está habilitado en su dispositivo. Habilitarlo en la configuración de ubicación.</string>
+    <string name="settings">Ajustes</string>
+    <string name="cancel">Cancelar</string>
+    <string name="stopped_sharing">El usuario dejó de compartir la ubicación</string>
+    <string name="no_support">Su dispositivo no soporta la brújula.</string>
+    <string name="close">Cerrar</string>
+    <string name="request_sent">¡Solicitud de amistad enviada!</string>
+    <string name="failed_add">Error al agregar amigo</string>
+    <string name="email_no_exist">El correo electrónico no existe</string>
+    <string name="greeting">Hola% 1 $ s</string>
+    <string name="enable_location">Por favor, permita que el rastreo de GPS transmita su ubicación</string>
+    <string name="tracking_enabled">Seguimiento GPS habilitado</string>
+    <string name="login_failed">Error de inicio de sesion</string>
+    <string name="register_failed">Error de registro</string>
+    <string name="accepted">Aceptado</string>
+    <string name="pending">Pendiente</string>
+    <string name="email">correo electrónico</string>
+    <string name="friends">Amigos</string>
+    <string name="requests">Peticiones</string>
+    <string name="register">Registro</string>
+    <string name="confirm_password">Confirmar contraseña</string>
+    <string name="create_account">Crear una cuenta</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="password">Contraseña</string>
+    <string name="password_match">Las contraseñas deben coincidir</string>
+</resources>
